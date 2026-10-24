@@ -1,0 +1,8 @@
+{
+  "id": "tanstack-postgres",
+  "name": "Dewandra Stok",
+  "description": "Aplikasi stok Dewandra Stok: dashboard, barang masuk, dan laporan.",
+  "baseVersion": "0.1.0",
+  "framework": "tanstack-start",
+  "database": "postgresql"
+}
